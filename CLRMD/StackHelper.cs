@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MemoryReciter
+namespace CLRMD
 {
-    public class Class1
+    static class StackHelper
     {
     }
 }
